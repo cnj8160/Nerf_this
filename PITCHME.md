@@ -1,5 +1,6 @@
 # How to use GitPitch?
-Note : This is slide note
+Note:
+This is slide note
 ---
 ## Chapter 1
 - One
