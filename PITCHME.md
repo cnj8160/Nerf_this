@@ -1,3 +1,11 @@
-#How to use GitPitch?
+# How to use GitPitch?
 
-## Like this!
+## Chapter 1
+- One
+- Two
+- Three
+
+## Chapter 2
+- Four
+- Five
+- Six
